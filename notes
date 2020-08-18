@@ -5,3 +5,16 @@ lists different body groups(i.e. arms, legs, chest, back, abs) for user to choos
 once it recieves input, it lists the different numbered workouts that fall under those categories
 asks user for numbered workout(1,2,3, etc) and waits for input
 recieves input and lists additional info on workout(instructions, equipment needed)
+
+Steps. 
+1. Welcome the user
+2. Present list of body groups for user to choose from(arms, legs, chest, back, abs)
+3. Ask for user input from the list of choices given 
+4. Based on user input, lists numbered workouts that fall under THAT category
+5. Asks for user input of the number the workout is under(1. squats: user types in 1)
+6. Shows additional info based on THAT specific workout 
+
+Classes 
+- CLI class: deals with things showing on the terminal 
+- Scraping class: deals with scraping data from webpage
+- Workout class: deals with workouts 
