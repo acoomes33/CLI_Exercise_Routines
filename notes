@@ -1,0 +1,7 @@
+Project:
+
+Exercise app that scrapes data from a webpage that lets user choose exercises
+lists different body groups(i.e. arms, legs, chest, back, abs) for user to choose 
+once it recieves input, it lists the different numbered workouts that fall under those categories
+asks user for numbered workout(1,2,3, etc) and waits for input
+recieves input and lists additional info on workout(instructions, equipment needed)
